@@ -10,4 +10,7 @@ Sample website with plenty of files for demos
 
 ## Test Environment
 
+## How to Contribute
+
 ## Copyright
+
